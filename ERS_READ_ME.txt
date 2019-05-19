@@ -3,6 +3,8 @@ ERS
 The ERS project is a Java implementation of the popular card games Egyptian Rat Screw and Slapjack(as an extra). 
 The goal of the game is to get all cards before the other players, and in the event that a player gets all the cards, they become the winner.
 
+## Main Class is defined in PlayingField
+
 Decks Explained
 ===
 There are three types of decks: the Master Deck, a Player's Deck, and a Burn Deck. The Master Deck is where gameplay takes place and where cards are played onto from the Player's Deck. 
